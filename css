@@ -1,0 +1,66 @@
+
+.bt-rich-text {
+    color: darkcyan;
+    text-align: center;
+}
+
+button.register-button.register-button-centered {
+    color: darkcyan
+}
+
+h2.subhead {
+ visibility: hidden;
+}
+
+button.register-button {
+    color: darkcyan;
+   
+}
+
+span {
+    color: navy;
+    align-content: center;
+}
+
+
+.event-details {
+    color: darkcyan;
+    text-align: center;
+}
+
+.event-date {
+    color: navy;
+}
+
+
+.event-date[_ngcontent-wxs-c202], .event-time[_ngcontent-wxs-c202]{
+    color: navy;
+}
+
+.register-button[_ngcontent-wxs-c202], .contactus-button[_ngcontent-wxs-c202]{
+    background-color: darkcyan;
+
+}
+
+.register-button[_ngcontent-wxs-c202]{
+
+    text-align: center;
+    line-height: 3;
+    align-content: center;
+    align-items: center;
+    align-self: center;
+}
+
+.header-wrapper.section-content {
+    align-content: center;
+    align-items: center;
+}
+
+.section-content[_ngcontent-wxs-c202]:not(.event-register){
+    align-content: center;
+    text-align: center;
+}
+
+span {
+    text-size-adjust:
+}
